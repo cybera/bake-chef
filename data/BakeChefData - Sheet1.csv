@@ -1,4 +1,4 @@
-NAME,SUB,BREAD,SUB SAUCE,MAYO,CUCUMBER,CARROTS,LETTUCE,CILANTRO,ONIONS,JALAPENO,SALT,PEPPER,SOY SAUCE,HOT SAUCE
+NAME,SUB,BREAD,SUB_SAUCE,MAYO,CUCUMBER,CARROTS,LETTUCE,CILANTRO,ONIONS,JALAPENO,SALT,PEPPER,SOY SAUCE,HOT SAUCE
 Anna,Beef Satay (no Cheese),White,0,1,1,1,1,1,0,1,1,1,0,0
 Rulan,Spicy Beef w/ Cheese,White,1,0,1,1,1,1,1,1,1,1,1,1
 Rulan,Spicy Beef w/ Cheese,White,1,0,1,1,1,1,1,1,1,1,0,1
@@ -45,7 +45,7 @@ Rulan,Spicy Beef w/ Cheese,White,1,0,1,1,1,1,1,1,1,1,0,1
 Derek,Spicy Beef w/ Cheese,Brown,1,1,1,1,1,1,0,0,1,1,0,0
 Derek,Spicy Beef w/ Cheese,Brown,1,1,1,1,1,1,0,0,1,1,0,1
 Derek,Spicy Beef w/ Cheese,Brown,0,1,1,1,1,1,0,0,1,1,0,0
-Michael,Spicy Beef w/ Cheese,Brown,1,1,1,1,1,1,1,1,0,1,1,1
+Micheal,Spicy Beef w/ Cheese,Brown,1,1,1,1,1,1,1,1,0,1,1,1
 Zach,Beef Satay w/ Cheese,White,1,0,1,1,1,0,0,1,0,0,0,0
 Jordan,Beef Satay w/ Cheese,White,1,1,1,1,1,1,0,0,1,0,0,0
 Jordan,Spicy Beef w/ Cheese,White,1,1,1,1,1,1,0,0,0,0,0,0
@@ -80,3 +80,23 @@ Jordan,Beef Satay w/ Cheese,White,1,1,1,1,1,1,0,0,1,0,0,0
 Derek,Spicy Beef w/ Cheese,Brown,0,1,1,1,1,1,0,0,1,1,0,0
 Zach,Spicy Beef w/ Cheese,White,1,0,1,1,1,0,0,1,0,1,0,1
 Barb,Beef Satay w/ Cheese,White,1,1,1,1,1,0,0,0,1,1,0,0
+Rulan,Spicy Beef w/ Cheese,White,1,0,1,1,1,1,1,1,1,1,0,1
+Derek,Spicy Beef w/ Cheese,Brown,1,1,1,1,1,1,0,0,1,1,0,0
+Jordan,Beef Satay w/ Cheese,White,1,1,1,1,1,1,1,0,1,1,0,0
+Jordan,Beef Satay w/ Cheese,White,1,1,1,1,1,1,1,0,1,1,0,0
+Graham,Spicy Beef (no Cheese),Brown,0,0,1,1,1,1,0,1,0,0,1,1
+Jordan,Beef Satay w/ Cheese,White,1,1,1,1,1,1,1,0,1,1,0,0
+May Lynn,chicken satay (no Cheese),Brown,1,1,1,1,1,1,0,1,1,1,0,1
+Anna,Spicy Beef (no Cheese),White,0,1,1,1,1,1,0,1,1,1,0,0
+Jordan,Beef Satay w/ Cheese,White,1,1,1,1,1,1,1,0,1,1,0,0
+Jaide,Beef Satay w/ Cheese,Brown,1,0,1,1,1,0,0,0,1,1,0,0
+Derek,Spicy Beef w/ Cheese,Brown,1,1,1,1,0,1,0,1,1,1,0,0
+Rulan,Spicy Beef w/ Cheese,White,1,0,1,1,1,1,1,1,1,1,0,1
+Jordan,Spicy Beef w/ Cheese,White,1,1,1,1,1,1,0,0,1,1,0,0
+Anna,spicy beef (no Cheese),White,0,1,1,1,1,1,0,1,1,1,0,0
+Micheal,Beef Satay w/ Cheese,Brown,1,0,1,1,1,1,1,1,1,1,0,1
+Jordan,Spicy Beef w/ Cheese,White,1,1,1,1,1,1,1,0,1,1,0,1
+Rulan,Spicy Beef w/ Cheese,White,1,0,1,1,1,1,1,1,1,1,0,1
+Jordan,Beef Satay w/ Cheese,White,1,1,1,1,1,1,1,0,1,1,0,0
+Derek,Spicy Beef w/ Cheese,Brown,1,1,1,1,0,1,0,0,1,1,0,0
+Jaide,Beef Satay w/ Cheese,Brown,1,0,1,1,1,0,0,0,1,1,0,0
